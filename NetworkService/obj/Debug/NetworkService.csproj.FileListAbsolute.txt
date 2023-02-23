@@ -1,0 +1,286 @@
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\MeteringSimulator.exe
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Reactive.dll
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\MeteringSimulator.pdb
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\MeteringSimulator.exe.config
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Reactive.xml
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\MeasurmentGraphView.g.cs
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\MeasurmentGraphView.baml
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\zivko\OneDrive\Desktop\orasaningrafik\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Reactive.dll
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Reactive.xml
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\zivko\OneDrive\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Reactive.dll
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Reactive.xml
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\pc\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Reactive.dll
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Reactive.xml
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\pc\Desktop\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Reactive.dll
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Reactive.xml
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\zivko\OneDrive\Desktop\SVIPROJEKTI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.dll
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Reactive.dll
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.pdb
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Reactive.xml
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+D:\III GODINA\HCI\BlagojevicCG5T7P2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.dll
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Reactive.dll
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.pdb
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Reactive.xml
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+D:\III GODINA\HCI\PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb

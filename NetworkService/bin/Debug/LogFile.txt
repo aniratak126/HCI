@@ -1,0 +1,17 @@
+Date Time:	1/15/2022 3:23:30 PM	Object_3	Value:	247
+Date Time:	1/15/2022 3:23:34 PM	Object_3	Value:	226
+Date Time:	1/15/2022 3:23:38 PM	Object_1	Value:	315
+Date Time:	1/15/2022 3:23:44 PM	Object_2	Value:	302
+Date Time:	1/15/2022 3:23:50 PM	Object_3	Value:	340
+Date Time:	1/15/2022 3:23:55 PM	Object_2	Value:	344
+Date Time:	1/15/2022 3:23:59 PM	Object_3	Value:	356
+Date Time:	1/15/2022 3:24:06 PM	Object_1	Value:	394
+Date Time:	1/15/2022 3:24:12 PM	Object_3	Value:	320
+Date Time:	1/15/2022 3:24:16 PM	Object_3	Value:	254
+Date Time:	1/15/2022 3:24:20 PM	Object_1	Value:	371
+Date Time:	1/15/2022 3:24:25 PM	Object_1	Value:	362
+Date Time:	1/15/2022 3:24:30 PM	Object_2	Value:	275
+Date Time:	1/15/2022 3:24:36 PM	Object_3	Value:	192
+Date Time:	1/15/2022 3:24:41 PM	Object_1	Value:	306
+Date Time:	1/15/2022 3:24:46 PM	Object_1	Value:	325
+Date Time:	1/15/2022 3:24:51 PM	Object_1	Value:	418
