@@ -1,0 +1,57 @@
+﻿<UserControl x:Class="MVVM1.Views.StudentView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MVVM1.Views"
+             xmlns:viewModel="clr-namespace:MVVM1.ViewModel"
+             xmlns:vml="clr-namespace:MVVM1.VML"
+             xmlns:model="clr-namespace:MVVM1.Model"
+             vml:ViewModelLocator.AutoHookedUpViewModel="True"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.DataContext>
+        <viewModel:StudentViewModel/>
+     </UserControl.DataContext>
+
+    <UserControl.Resources>
+        <DataTemplate DataType="{x:Type model:Student}">
+            <StackPanel Orientation="Horizontal">
+                <TextBox Text="{Binding Path=FirstName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="100"/>
+                <TextBox Text="{Binding Path=LastName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="100"/>
+                <TextBlock Text="{Binding Path=FullName, Mode=OneWay}"/>
+            </StackPanel>
+        </DataTemplate>
+    </UserControl.Resources>
+    
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <ListBox ItemsSource="{Binding Students}" SelectedItem="{Binding SelectedStudent}"/>
+
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal">
+                    <Label>First Name:</Label>
+                    <TextBox Text="{Binding FnText}" Width="70"/>
+                    <Label>Last Name:</Label>
+                    <TextBox Text="{Binding LnText}" Width="70"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="Add"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Top"
+                            Width="75"
+                            Command="{Binding AddCommand}"/>
+
+                    <Button Content="Delete"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Top"
+                            Width="75"
+                            Command="{Binding DeleteCommand}"/>
+                </StackPanel>
+                
+            </StackPanel>
+            
+        </StackPanel>    
+    </Grid>
+</UserControl>
