@@ -1,0 +1,98 @@
+﻿<Window x:Class="KomedijaFilm.DodavanjeFilma"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KomedijaFilm"
+        mc:Ignorable="d"
+        Title="MainWindow" SizeToContent="WidthAndHeight" MouseLeftButtonDown="Window_MouseLeftButtonDown" WindowStyle="None"
+        AllowsTransparency="True" Background="Transparent">
+    <Window.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="Beige"/>
+            <Setter Property="Foreground" Value="PaleVioletRed"/>
+            <Setter Property="BorderBrush" Value="PaleTurquoise"/>
+            <Setter Property="BorderThickness" Value="0.75"/>
+        </Style>
+    </Window.Resources>
+    <Canvas Width="550" Height="500">
+        <Path Stroke="HotPink" StrokeThickness="3" Opacity="100">
+            <Path.Fill>
+                <LinearGradientBrush>
+                    <GradientStop Color="HotPink" Offset="0.0"/>
+                    <GradientStop Color="DarkTurquoise" Offset="0.25"/>
+                    <GradientStop Color="HotPink" Offset="0.50"/>
+                    <GradientStop Color="DarkTurquoise" Offset="0.75"/>
+                    <GradientStop Color="HotPink" Offset="1.0"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+            <Path.Data>
+                <PathGeometry>
+                    <PathFigure StartPoint="50,0">
+                        <LineSegment Point="0,50"/>
+                        <LineSegment Point="0,100"/>
+                        <LineSegment Point="10,100"/>
+                        <LineSegment Point="10,400"/>
+                        <LineSegment Point="0,400"/>
+                        <LineSegment Point="0,450"/>
+                        <LineSegment Point="50,500"/>
+                        <LineSegment Point="500,500"/>
+                        <LineSegment Point="550,450"/>
+                        <LineSegment Point="550,400"/>
+                        <LineSegment Point="540,400"/>
+                        <LineSegment Point="540,100"/>
+                        <LineSegment Point="550,100"/>
+                        <LineSegment Point="550,50"/>
+                        <LineSegment Point="500,0"/>
+                        <LineSegment Point="50,0"/>
+                    </PathFigure>
+                </PathGeometry>
+
+            </Path.Data>
+
+        </Path>
+
+        <Button x:Name="IzlazBtn" Style="{StaticResource ButtonStyle}" Content="Izlaz" Canvas.Left="418" Canvas.Top="14" Width="75" Cursor="Hand" Click="IzlazBtn_Click" />
+        <Button  x:Name="SacuvajBtn" Style="{StaticResource ButtonStyle}" Content="Sačuvaj"  Canvas.Left="454" Canvas.Top="429" Width="75" Cursor="Hand" Click="SacuvajBtn_Click" />
+        <Label x:Name="OpisLbl" Content="Opis filma:" VerticalAlignment="Center" Foreground="Beige" Canvas.Left="47" Canvas.Top="268" Height="26" Width="174"/>
+        <DockPanel Height="175" Canvas.Left="50" Canvas.Top="291" Width="380">
+            <ToolBar DockPanel.Dock="Top">
+                <ToggleButton Name="BoldBtn" Command="EditingCommands.ToggleBold"  Content="B"  Width="15"/>
+                <Separator />
+                <ToggleButton x:Name="ItalicBtn" Command="EditingCommands.ToggleItalic" Content="I" Width="15"/>
+                <Separator/>
+                <ToggleButton x:Name="UnderlineBtn" Command="EditingCommands.ToggleUnderline" Content="U" Width="15"/>
+                <Separator/>
+                <ComboBox Name="FontFamilyCmbx" Width="100" SelectionChanged="FontFamilyCmbx_SelectionChanged" />
+                <Separator />
+                <ComboBox x:Name="FontSizeCmbx" Width="40" SelectionChanged="FontSizeCmbx_SelectionChanged" />
+                <Separator/>
+                <ComboBox x:Name="ColorCmbx" Width="100" SelectionChanged="ColorCmbx_SelectionChanged" />
+                <Separator/>
+
+            </ToolBar>
+            <RichTextBox Name="rtbEditor" SelectionChanged="rtbEditor_SelectionChanged" Margin="0,1.8,0,0" Width="380" TextChanged="RtbEditor_TextChanged"/>
+        </DockPanel>
+        <StatusBar x:Name="WordCount" Width="380"  Height="23" Canvas.Bottom="10" Canvas.Left="50" Canvas.Top="466">
+            <StatusBarItem>
+                <TextBlock x:Name="WordNum" Width="150" Margin="0,0,0,0"/>
+            </StatusBarItem>
+        </StatusBar>
+
+        <TextBox x:Name="NazivTxb" Width="174" Height="22" TextWrapping="Wrap"  TextAlignment="Center"  Canvas.Left="50" Canvas.Top="100" GotFocus="NazivTxb_GotFocus" LostFocus="NazivTxb_LostFocus"/>
+        <Label x:Name="NazivLbl" Content="" IsHitTestVisible="False" HorizontalContentAlignment="Center"  Canvas.Left="50" Canvas.Top="98" Height="26" Width="174"/>
+        <TextBox x:Name="ProdKucaTxb" Width="174" Height="22" TextWrapping="Wrap" GotFocus="ProdKucaTxb_GotFocus" LostFocus="ProdKucaTxb_LostFocus"  TextAlignment="Center"  Canvas.Left="50" Canvas.Top="147" />
+        <Label x:Name="ProdKucaLbl" Content="" IsHitTestVisible="False" HorizontalContentAlignment="Center"   Canvas.Left="50" Canvas.Top="145" Height="26" Width="174"/>
+
+        <TextBox x:Name="TrajanjeTxb"  Width="174" Height="22" TextWrapping="Wrap"  TextAlignment="Center" GotFocus="TrajanjeTxb_GotFocus" LostFocus="TrajanjeTxb_LostFocus" Canvas.Left="50" Canvas.Top="194" />
+        <Label x:Name="TrajanjeLbl" Content="" IsHitTestVisible="False" HorizontalContentAlignment="Center"  Canvas.Left="50" Canvas.Top="192" Height="26" Width="174"/>
+
+        <Image x:Name="FilmImg" Stretch="UniformToFill" Height="116" Canvas.Left="278" Canvas.Top="103" Width="152"/>
+        <Label x:Name="SlikaErr" Content="" IsHitTestVisible="False" HorizontalContentAlignment="Right" Height="26" Width="174" Canvas.Left="250" Canvas.Top="147" />
+        <Border x:Name="ImageBrd" BorderBrush="Beige" BorderThickness="0.75" Height="115" Canvas.Left="278" Canvas.Top="103" Width="152" />
+        <Button x:Name="SlikaBtn" Style="{StaticResource ButtonStyle}" Content="Dodaj sliku" Canvas.Right="51" Canvas.Top="222" Width="76" Height="20"  Cursor="Hand" Click="SlikaBtn_Click" Canvas.Left="354" RenderTransformOrigin="0.889,0.55"/>
+        <Label x:Name="DatumOpis" Content="Datum premijere:" Foreground="Beige" IsHitTestVisible="False" HorizontalContentAlignment="Left" Height="26" Width="174" Canvas.Left="47" Canvas.Top="218"/>
+        <DatePicker x:Name="DatePicker"  Canvas.Top="241"  Width="174" Canvas.Left="50"/>
+       
+    </Canvas>
+</Window>

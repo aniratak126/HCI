@@ -1,0 +1,63 @@
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.csprojAssemblyReference.cache
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\MainWindow.g.cs
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\App.g.cs
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm_MarkupCompile.cache
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm_MarkupCompile.lref
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\bin\Debug\KomedijaFilm.exe.config
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\bin\Debug\KomedijaFilm.exe
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\bin\Debug\KomedijaFilm.pdb
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\MainWindow.baml
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.g.resources
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.Properties.Resources.resources
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.csproj.GenerateResource.cache
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.csproj.CoreCompileInputs.cache
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.exe
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.pdb
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\DodavanjeFilma.g.cs
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\DodavanjeFilma.baml
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\Izmena.g.cs
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\Izmena.baml
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\Prikaz.g.cs
+C:\Users\Bozidar\Desktop\KomedijaProjekat\KomedijaFilm\KomedijaFilm\obj\Debug\Prikaz.baml
+D:\Downloads\KomedijaFilm\KomedijaFilm\bin\Debug\KomedijaFilm.exe.config
+D:\Downloads\KomedijaFilm\KomedijaFilm\bin\Debug\KomedijaFilm.exe
+D:\Downloads\KomedijaFilm\KomedijaFilm\bin\Debug\KomedijaFilm.pdb
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.csproj.AssemblyReference.cache
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\DodavanjeFilma.g.cs
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\Izmena.g.cs
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\MainWindow.g.cs
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\Prikaz.g.cs
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\App.g.cs
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm_MarkupCompile.cache
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm_MarkupCompile.lref
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\DodavanjeFilma.baml
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\Izmena.baml
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\MainWindow.baml
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\Prikaz.baml
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.g.resources
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.Properties.Resources.resources
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.csproj.GenerateResource.cache
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.csproj.CoreCompileInputs.cache
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.exe
+D:\Downloads\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.pdb
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\bin\Debug\KomedijaFilm.exe.config
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\bin\Debug\KomedijaFilm.exe
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\bin\Debug\KomedijaFilm.pdb
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.csproj.AssemblyReference.cache
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\DodavanjeFilma.g.cs
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\Izmena.g.cs
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\MainWindow.g.cs
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\Prikaz.g.cs
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\App.g.cs
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm_MarkupCompile.cache
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm_MarkupCompile.lref
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\DodavanjeFilma.baml
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\Izmena.baml
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\MainWindow.baml
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\Prikaz.baml
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.g.resources
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.Properties.Resources.resources
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.csproj.GenerateResource.cache
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.csproj.CoreCompileInputs.cache
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.exe
+D:\III GODINA\HCI\PZ1\KomedijaFilm\KomedijaFilm\obj\Debug\KomedijaFilm.pdb
